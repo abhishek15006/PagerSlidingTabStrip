@@ -15,7 +15,7 @@ Try out the sample application [on the Play Store](https://play.google.com/store
         
         dependencies {
             compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
-        }
+        }//dependencies
 
   2. Include the PagerSlidingTabStrip widget in your layout. This should usually be placed
      above the `ViewPager` it represents.
